@@ -1,3 +1,4 @@
 "Mi practica de Git." 
 "Esta linea la agregu‚ desde feature-text." 
 "L¡nea desde main antes del merge" 
+"Linea desde main antes del merge" 
